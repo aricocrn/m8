@@ -1,0 +1,65 @@
+@media screen and (min-width: 768px){
+  body{
+    margin: 0;
+    padding: 0;
+  }
+  h1,h2,h3,h4,h5,h6{
+    margin: 0;
+  }
+  h2{
+    margin-top: 8px;
+  }
+  #cap{
+    width: 100%;
+    height: 100px;
+    background-color: red;
+    color: #CCC;
+    float: left;
+  }
+  ul{
+    margin-top: 10px;
+  }
+  .cap{
+    width: 8%;
+    height: 30px;
+    float: left;
+    display: inline;
+  }
+  #cos{
+    height: 550px;
+    background-color: green;
+    width: 60%;
+    float: left;
+  }
+  .cos{
+    margin-right: 10px;
+    margin: 5px;
+    width: 45%;
+    height: 80px;
+    background-color: cyan;
+    float: left;
+    display: inline;
+    text-align: center;
+  }
+  #menu{
+    height: 550px;
+    background-color: blue;
+    width: 40%;
+    float: right;
+  }
+  .menu{
+    margin: 5px;
+    width: 85%;
+    height: 75px;
+    background-color: grey;
+    display: inline;
+    float: left;
+    text-align: center;
+  }
+  #peu{
+    clear: both;
+    height: 100px;
+    background-color: yellow;
+    color: #CCC;
+  }
+}

@@ -1,0 +1,63 @@
+@media screen and (max-width: 480px){
+body{
+  margin: 0;
+  padding: 0;
+}
+h1,h2,h3,h4,h5,h6{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+h2{
+  margin-top: 8px;
+}
+#cap{
+  width: 100%;
+  height: 300px;
+  background-color: red;
+  color: #CCC;
+  float: left;
+}
+.cap{
+  width: 50%;
+  height: 50px;
+  display: block;
+  font-size: 19px;
+}
+#cos{
+  width: 100%;
+  height: 550px;
+  background-color: green;
+  float: left;
+  overflow: hidden;
+}
+.cos{
+  margin-left: 0px;
+  margin: 5px;
+  width: 85%;
+  height: 75px;
+  background-color: cyan;
+  display: inline;
+  float: left;
+  text-align: center;
+}
+#menu{
+  height: 550px;
+  background-color: blue;
+  clear: both;
+}
+.menu{
+  margin: 5px;
+  width: 85%;
+  height: 75px;
+  background-color: grey;
+  display: inline;
+  float: left;
+  text-align: center;
+}
+#peu{
+  height: 100px;
+  background-color: yellow;
+  color: #CCC;
+}
+}
