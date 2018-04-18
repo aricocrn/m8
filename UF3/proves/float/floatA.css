@@ -1,0 +1,58 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Lucida, Verdana, sans-serif;
+}
+div {
+
+}
+.quadrat {
+  background-color: tomato;
+  height: 100px;
+  width: 100px;
+  margin: 20px;
+  border: solid 10px black;
+  font-size: 48px;
+  font-family: Helvetica;
+}
+
+#uno{
+  background-color: cyan;
+  float: left;
+}
+
+#dos{
+  background-color: olive;
+  float: left;
+}
+
+#tres{
+  background-color: grey;
+  float: left;
+}
+
+#cuatro{
+  background-color: purple;
+  float: left;
+}
+
+#cinco{
+  background-color: blue;
+  clear: left;
+  float: right;
+}
+
+#seis{
+  background-color: red;
+  float: right;
+}
+
+#siete{
+  background-color: green;
+  float: right;
+}
+
+#ocho{
+  background-color: orange;
+  float: right;
+}

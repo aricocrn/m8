@@ -1,0 +1,48 @@
+#contingut{
+    width: 920px;
+    height: 1420px;
+    background-color: #999;
+    margin: 0 auto;
+    font-family: Times, Serif;
+  }
+  #cabecera{
+    height: 300px;
+    width: 75%;
+    background-color: #CC9;
+    float: left;
+  }
+  #cabecera h3{
+    text-align: center;
+  }
+  .alumne h3{
+    text-align: center;
+    margin-top: 5px;
+  }
+  .alumne img{
+    margin-bottom: 10px;
+  }
+  #cabecera h1{
+    text-align: center;
+  }
+  #cabecera h2{
+    text-align: center;
+  }
+  #animacio{
+    float: right;
+  }
+  .alumne{
+    height: 150px;
+    width: 220px;
+    background-color: #CCC;
+    float: left;
+    margin: 5px;
+  }
+  #peu{
+    height: 40px;
+    width: 920px;
+    background-color: #CC9;
+    float: left;
+  }
+  .a{
+    color: red;
+  }
