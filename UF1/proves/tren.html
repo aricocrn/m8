@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    body{
+      font-family: Verdana;
+    }
+    #cel{
+      background-color: cyan;
+      width: 350px;
+      height: 600px;
+      margin: 0 auto;
+      z-index: -51;
+      animation-name: noche;
+      animation-duration: 10s;
+    }
+    @keyframes noche{
+      0%{background-color: cyan;}
+      100%{background-color: #000;}
+    }
+    #cesped{
+      background-color: rgb(44, 175, 32);
+      width: 350px;
+      height: 200px;
+      margin: 0 auto;
+      position: relative;
+      top: 121px;
+      z-index: 30;
+      animation-name: cesped1;
+      animation-duration: 10s;
+    }
+    @keyframes cesped1{
+      0%{background-color: rgb(44, 175, 32);}
+      100%{background-color: green;}
+    }
+    #via{
+      background-color: rgb(157, 82, 21);
+      width: 120px;
+      height: 200px;
+      margin: 0 auto;
+      z-index: 40;
+    }
+    #titul{
+      text-align: center;
+      position: relative;
+      top: 10px;
+      animation-name: rodaliesr4;
+      animation-duration: 10s;
+    }
+    @keyframes rodaliesr4{
+      0%{color: #000;}
+      100%{color: #CCC;}
+    }
+    #tren{
+      background-color: rgb(215, 52, 52);
+      width: 90px;
+      height: 90px;
+      border-radius: 12px 12px 0px 0px;
+      margin: 0 auto;
+      position: relative;
+      top: 250px;
+      float: center;
+      z-index: 50;
+      animation-name: rodalies;
+      animation-duration: 10s;
+    }
+    @keyframes rodalies{
+      0%{top: 250px;}
+      100%{top: 435px;}
+    }
+    #ventana{
+      background-color: white;
+      width: 80px;
+      height: 50px;
+      border-radius: 8px 8px 8px 8px;
+      margin: 0 auto;
+      float: left;
+      position: relative;
+      top: 5px;
+      left: 5px;
+    }
+    #llum1{
+      width: 15px;
+      height: 15px;
+      border-radius: 15px;
+      background-color: #CCC;
+      float: left;
+      position: relative;
+      left: 15px;
+      top: 15px;
+      filter: blur(1px);
+      animation-name: llum3;
+      animation-duration: 10s;
+    }
+    @keyframes llum3{
+      0%{background-color: #CCC;}
+      100%{background-color: yellow;}
+    }
+    #llum2{
+      width: 15px;
+      height: 15px;
+      border-radius: 15px;
+      background-color: #CCC;
+      float: left;
+      position: relative;
+      left: 45px;
+      top: 15px;
+      filter: blur(1px);
+      animation-name: llum4;
+      animation-duration: 10s;
+    }
+    @keyframes llum4{
+      0%{background-color: #CCC;}
+      100%{background-color: yellow;}
+    }
+    #rueda1{
+      width: 15px;
+      height: 20px;
+      background-color: #000;
+      position: relative;
+      top: 90px;
+      left: 5px;
+    }
+    #rueda2{
+      width: 15px;
+      height: 20px;
+      background-color: #000;
+      position: relative;
+      top: 70px;
+      left: 70px;
+    }
+    #sol{
+      margin: 0 auto;
+      background-color: orange;
+      width: 140px;
+      height: 140px;
+      overflow: visible;
+      border-radius: 70px;
+      position: relative;
+      top: 200px;
+      animation-name: sortida;
+      animation-duration: 10s;
+      filter: blur(10px);
+    }
+    @keyframes sortida{
+      0%{top: -100px; left: 0px;}
+      100%{top: 200px; left: 280px; background-color: yellow; transform: scale(0.0);}
+    }
+    #luna{
+      margin: 0 auto;
+      background-color: #CCC;
+      width: 140px;
+      height: 140px;
+      overflow: visible;
+      border-radius: 70px;
+      position: relative;
+      top: 200px;
+      animation-name: sortidaluna;
+      animation-duration: 10s;
+      float: left;
+      filter: blur(5px);
+    }
+    @keyframes sortidaluna{
+      0%{top: -100px; left: -80px; transform: scale(0.0);}
+      100%{top: -140px; left: 120px; background-color: #CCC;}
+    }
+    #ventana h5{
+      text-align: center;
+      position: relative;
+      top: -15px;
+    }
+    #via1{
+      background-color: rgb(173, 173, 173);
+      height: 200px;
+      width: 15px;
+      float: left;
+      position: relative;
+      left: 60px;
+    }
+    #via2{
+      background-color: rgb(173, 173, 173);
+      height: 200px;
+      width: 15px;
+      position: relative;
+      left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div id="cel">
+    <h2 id="titul">Rodalies</h2>
+      <div id="tren">
+        <div id="ventana">
+        <h5>R4 Martorell</h5>
+        </div>
+        <div id="llum1"></div>
+        <div id="llum2"></div>
+        <div id="rueda1"></div>
+        <div id="rueda2"></div>
+      </div>
+    <div id="sol"></div>
+    <div id="luna"></div>
+    <div id="cesped">
+      <div id="via">
+        <div id="via1"></div>
+        <div id="via2"></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
