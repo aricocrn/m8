@@ -1,0 +1,209 @@
+@font-face{
+	font-family: Blade Runner Movie Font Regular;
+	src: url(../fonts/BLADRMF_.TTF);
+}
+
+body {
+	font-family: Garamond;
+}
+
+h1, h2, h3, h4 {
+	text-align: center;
+}
+
+h1 {
+	font-size: 2em;
+}
+h2 {
+	font-family: Blade Runner Movie Font Regular;
+	font-size: 2em;
+}
+p	{
+	font-size: 0.8em;
+	line-height: 1.4em;
+	margin: 0;
+	text-indent: 0.8em;
+}
+
+.fotocita {
+	width: 50%;
+}
+
+.primer{
+	text-indent: 0;
+}
+
+.primer:first-letter{
+	float: left;
+	margin-top: 8px;
+	color: black;
+	font-size: 80px;
+	line-height: 50px;
+	padding: 2px;
+	font-family: Blade Runner Movie Font Regular;
+	margin-right: 5px;
+}
+
+.excepcio{
+	text-transform: lowercase;
+}
+
+#blade{
+
+position: absolute;
+
+top: 12em;
+
+left: 30%;
+
+width:250px;
+
+height: 200px;
+
+animation-name: blade;
+
+animation-duration: 2s;
+
+-webkit-animation-name: blade;
+
+-webkit-animation-duration: 2s;
+
+
+
+}
+
+#runner{
+
+position: absolute;
+
+top: 16em;
+
+right: 30%;
+
+width: 250px;
+
+height: 150px;
+
+right:30%;
+
+animation-name: runner;
+
+animation-duration: 2s;
+
+-webkit-animation-name: runner;
+
+-webkit-animation-duration: 2s;}
+
+
+
+@keyframes blade{
+
+0%{left: -100%;}
+
+100%{left: 30%;}
+
+}
+
+@-webkit-keyframes blade{
+
+0%{left: -100%;}
+
+100%{left: 30%;}
+
+}
+
+
+
+@keyframes runner{
+
+0%{right: -100%;}
+
+100%{right: 30%;}
+
+}
+
+@-webkit-keyframes runner{
+
+0%{right: -100%;}
+
+100%{right: 30%;}
+
+}
+
+
+
+#b{
+
+font-family: Blade Runner Movie Font Regular;
+
+font-size: 12em;
+
+position: absolute;
+
+top: 1em;
+
+left: 25%;
+
+color: #FFF;
+
+opacity: 0.5;
+
+text-shadow: 1px 1px 5px #666;
+
+animation-name: b;
+
+animation-duration: 2s;
+
+animation-delay: 2s;
+
+-webkit-animation-name: b;
+
+-wekit-animation-delay: 0s;
+
+-webkit-animation-duration: 2s;
+
+}
+
+@keyframes b:{
+
+0%{opacity: 0.5;}
+
+100%{opacity: 1;}
+
+}
+
+@-webkit-keyframes b:{
+
+0%{opacity: 0.5;}
+
+100%{opacity: 1;}
+
+}
+
+#credits, #dedicatoria, #cita, #titular, h3 {
+	margin-top: 6em;
+}
+
+@media (max-width: 700px)
+	{
+		p {
+			column-count: 1;
+			column-gap: 40px;
+		}
+	}
+
+@media (min-width: 701px)
+{
+	p {
+		column-count: 2;
+		column-gap: 40px;
+	}
+}
+
+@media (min-width: 1401px)
+{
+	p {
+		column-count: 3;
+		column-gap: 40px;
+	}
+}

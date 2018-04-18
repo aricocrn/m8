@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:f0118248-9521-44eb-b66d-0f7034cb310f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Juego de tronos</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Cubierta</text>
+      </navLabel>
+      <content src="Text/cubierta.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Juego de tronos</text>
+      </navLabel>
+      <content src="Text/titulo.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Presentación</text>
+      </navLabel>
+      <content src="Text/prstcn.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Mapas</text>
+      </navLabel>
+      <content src="Text/mapa1.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Agradecimientos</text>
+      </navLabel>
+      <content src="Text/agrade.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Prólogo</text>
+      </navLabel>
+      <content src="Text/Cap000.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Bran (1)</text>
+      </navLabel>
+      <content src="Text/Cap001.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Catelyn (1)</text>
+      </navLabel>
+      <content src="Text/Cap002.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Daenerys (1)</text>
+      </navLabel>
+      <content src="Text/Cap003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Eddard (1)</text>
+      </navLabel>
+      <content src="Text/Cap004.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Jon (1)</text>
+      </navLabel>
+      <content src="Text/Cap005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Catelyn (2)</text>
+      </navLabel>
+      <content src="Text/Cap006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Arya (1)</text>
+      </navLabel>
+      <content src="Text/Cap007.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Bran (2)</text>
+      </navLabel>
+      <content src="Text/Cap008.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Tyrion (1)</text>
+      </navLabel>
+      <content src="Text/Cap009.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Jon (2)</text>
+      </navLabel>
+      <content src="Text/Cap010.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Daenerys (2)</text>
+      </navLabel>
+      <content src="Text/Cap011.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Eddard (2)</text>
+      </navLabel>
+      <content src="Text/Cap012.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Tyrion (2)</text>
+      </navLabel>
+      <content src="Text/Cap013.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Catelyn (3)</text>
+      </navLabel>
+      <content src="Text/Cap014.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Sansa (1)</text>
+      </navLabel>
+      <content src="Text/Cap015.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Eddard (3)</text>
+      </navLabel>
+      <content src="Text/Cap016.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Bran (3)</text>
+      </navLabel>
+      <content src="Text/Cap017.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Catelyn (4)</text>
+      </navLabel>
+      <content src="Text/Cap018.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Jon (3)</text>
+      </navLabel>
+      <content src="Text/Cap019.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Eddard (4)</text>
+      </navLabel>
+      <content src="Text/Cap020.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Tyrion (3)</text>
+      </navLabel>
+      <content src="Text/Cap021.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Arya (2)</text>
+      </navLabel>
+      <content src="Text/Cap022.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Daenerys (3)</text>
+      </navLabel>
+      <content src="Text/Cap023.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Bran (4)</text>
+      </navLabel>
+      <content src="Text/Cap024.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Eddard (5)</text>
+      </navLabel>
+      <content src="Text/Cap025.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Jon (4)</text>
+      </navLabel>
+      <content src="Text/Cap026.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Eddard (6)</text>
+      </navLabel>
+      <content src="Text/Cap027.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Catelyn (5)</text>
+      </navLabel>
+      <content src="Text/Cap028.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Sansa (2)</text>
+      </navLabel>
+      <content src="Text/Cap029.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Eddard (7)</text>
+      </navLabel>
+      <content src="Text/Cap030.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Tyrion (4)</text>
+      </navLabel>
+      <content src="Text/Cap031.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Arya (3)</text>
+      </navLabel>
+      <content src="Text/Cap032.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Eddard (8)</text>
+      </navLabel>
+      <content src="Text/Cap033.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Catelyn (6)</text>
+      </navLabel>
+      <content src="Text/Cap034.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Eddard (9)</text>
+      </navLabel>
+      <content src="Text/Cap035.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Daenerys (4)</text>
+      </navLabel>
+      <content src="Text/Cap036.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Bran (5)</text>
+      </navLabel>
+      <content src="Text/Cap037.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>Tyrion (5)</text>
+      </navLabel>
+      <content src="Text/Cap038.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>Eddard (10)</text>
+      </navLabel>
+      <content src="Text/Cap039.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>Catelyn (7)</text>
+      </navLabel>
+      <content src="Text/Cap040.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>Jon (5)</text>
+      </navLabel>
+      <content src="Text/Cap041.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>Tyrion (6)</text>
+      </navLabel>
+      <content src="Text/Cap042.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>Eddard (11)</text>
+      </navLabel>
+      <content src="Text/Cap043.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>Sansa (3)</text>
+      </navLabel>
+      <content src="Text/Cap044.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>Eddard (12)</text>
+      </navLabel>
+      <content src="Text/Cap045.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>Daenerys (5)</text>
+      </navLabel>
+      <content src="Text/Cap046.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>Eddard (13)</text>
+      </navLabel>
+      <content src="Text/Cap047.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>Jon (6)</text>
+      </navLabel>
+      <content src="Text/Cap048.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>Eddard (14)</text>
+      </navLabel>
+      <content src="Text/Cap049.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>Arya (4)</text>
+      </navLabel>
+      <content src="Text/Cap050.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>Sansa (4)</text>
+      </navLabel>
+      <content src="Text/Cap051.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>Jon (7)</text>
+      </navLabel>
+      <content src="Text/Cap052.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>Bran (6)</text>
+      </navLabel>
+      <content src="Text/Cap053.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>Daenerys (6)</text>
+      </navLabel>
+      <content src="Text/Cap054.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>Catelyn (8)</text>
+      </navLabel>
+      <content src="Text/Cap055.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>Tyrion (7)</text>
+      </navLabel>
+      <content src="Text/Cap056.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>Sansa (5)</text>
+      </navLabel>
+      <content src="Text/Cap057.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>Eddard (15)</text>
+      </navLabel>
+      <content src="Text/Cap058.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>Catelyn (9)</text>
+      </navLabel>
+      <content src="Text/Cap059.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>Jon (8)</text>
+      </navLabel>
+      <content src="Text/Cap060.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>Daenerys (7)</text>
+      </navLabel>
+      <content src="Text/Cap061.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>Tyrion (8)</text>
+      </navLabel>
+      <content src="Text/Cap062.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>Catelyn (10)</text>
+      </navLabel>
+      <content src="Text/Cap063.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>Daenerys (8)</text>
+      </navLabel>
+      <content src="Text/Cap064.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>Arya (5)</text>
+      </navLabel>
+      <content src="Text/Cap065.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>Bran (7)</text>
+      </navLabel>
+      <content src="Text/Cap066.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>Sansa (6)</text>
+      </navLabel>
+      <content src="Text/Cap067.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>Daenerys (9)</text>
+      </navLabel>
+      <content src="Text/Cap068.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>Tyrion (9)</text>
+      </navLabel>
+      <content src="Text/Cap069.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>Jon (9)</text>
+      </navLabel>
+      <content src="Text/Cap070.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>Catelyn (11)</text>
+      </navLabel>
+      <content src="Text/Cap071.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>Daenerys (10)</text>
+      </navLabel>
+      <content src="Text/Cap072.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>Apéndice</text>
+      </navLabel>
+      <content src="Text/Ape000.xhtml"/>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>Casa Baratheon</text>
+        </navLabel>
+        <content src="Text/Ape001.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>Casa Stark</text>
+        </navLabel>
+        <content src="Text/Ape002.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>Casa Lannister</text>
+        </navLabel>
+        <content src="Text/Ape003.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Casa Arryn</text>
+        </navLabel>
+        <content src="Text/Ape004.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>Casa Tully</text>
+        </navLabel>
+        <content src="Text/Ape005.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Casa Tyrell</text>
+        </navLabel>
+        <content src="Text/Ape006.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>Casa Greyjoy</text>
+        </navLabel>
+        <content src="Text/Ape007.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>Casa Martell</text>
+        </navLabel>
+        <content src="Text/Ape008.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>Casa Targaryen</text>
+        </navLabel>
+        <content src="Text/Ape009_01.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>Pesas y Medidas</text>
+        </navLabel>
+        <content src="Text/Apsmd.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>Autor</text>
+      </navLabel>
+      <content src="Text/autor.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

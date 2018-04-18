@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:f0118248-9521-44eb-b66d-0f7034cb310f</dc:identifier>
+    <dc:title>Juego de tronos</dc:title>
+    <dc:creator opf:file-as="Martin, George R. R." opf:role="aut">George R. R. Martin</dc:creator>
+    <dc:language>es</dc:language>
+    <dc:contributor opf:file-as="Macía, Cristina" opf:role="trl">Cristina Macía</dc:contributor>
+    <dc:contributor opf:file-as="Jiménez Corominas, Enrique" opf:role="ill">Enrique Jiménez Corominas</dc:contributor>
+    <dc:subject>Novela, Aventuras, Fantástico</dc:subject>
+    <dc:description>Tras el largo verano, el invierno se acerca a los Siete Reinos. Lord Eddard Stark, señor de Invernalia, deja sus dominios para unirse a la corte del rey Robert Baratheon el Usurpador, hombre díscolo y otrora guerrero audaz cuyas mayores aficiones son comer, beber y engendrar bastardos. Eddard Stark desempeñará el cargo de Mano del Rey e intentará desentrañar una maraña de intrigas que pondrá en peligro su vida… y la de los suyos. En un mundo cuyas estaciones duran décadas y en el que retazos de una magia inmemorial y olvidada surgen en los rincones más sombríos y maravillosos, la traición y la lealtad, la compasión y la sed de venganza, el amor y el poder hacen del juego de tronos una poderosa trampa que atrapa en sus fauces a los personajes… y al lector.</dc:description>
+    <dc:date opf:event="publication">1996-08-06</dc:date>
+    <dc:date opf:event="modification">2016-03-23</dc:date>
+    <dc:publisher>ePubLibre</dc:publisher>
+    <meta content="0.8.4" name="Sigil version" />
+    <meta name="cover" content="cover.jpg" />
+    <meta content="Canción de hielo y fuego" name="calibre:series" />
+    <meta content="1" name="calibre:series_index" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/style.css" id="style.css" media-type="text/css" />
+    <item href="Text/cubierta.xhtml" id="cubierta.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/dedicatoria.xhtml" id="dedicatoria.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/sinopsis.xhtml" id="sinopsis.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/titulo.xhtml" id="titulo.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/autor.xhtml" id="autor.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/ex_libris.png" id="ex_libris.png" media-type="image/png" />
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg" />
+    <item href="Text/prstcn.xhtml" id="prstcn.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mapa1.xhtml" id="mapa1.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/mapa2.xhtml" id="mapa2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/agrade.xhtml" id="agrade.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Ape000.xhtml" id="Ape000.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Ape001.xhtml" id="Ape001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Ape002.xhtml" id="Ape002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Ape003.xhtml" id="Ape003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Ape004.xhtml" id="Ape004.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Ape005.xhtml" id="Ape005.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Ape006.xhtml" id="Ape006.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Ape007.xhtml" id="Ape007.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Ape008.xhtml" id="Ape008.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Ape009_03.xhtml" id="Ape009_03.xhtml" media-type="application/xhtml+xml" />
+    <item href="Fonts/creedmason.ttf" id="creedmason.ttf" media-type="application/x-font-ttf" />
+    <item href="Images/ico09.png" id="ico09.png" media-type="image/png" />
+    <item href="Images/ico08.png" id="ico08.png" media-type="image/png" />
+    <item href="Images/ico07.png" id="ico07.png" media-type="image/png" />
+    <item href="Images/ico06.png" id="ico06.png" media-type="image/png" />
+    <item href="Images/ico05.png" id="ico05.png" media-type="image/png" />
+    <item href="Images/ico04.png" id="ico04.png" media-type="image/png" />
+    <item href="Images/ico03.png" id="ico03.png" media-type="image/png" />
+    <item href="Images/ico02.png" id="ico02.png" media-type="image/png" />
+    <item href="Images/ico01.png" id="ico01.png" media-type="image/png" />
+    <item href="Text/Ape009_02.xhtml" id="Ape009_02.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Ape009_01.xhtml" id="Ape009_01.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Apsmd.xhtml" id="Apsmd.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap000.xhtml" id="Cap000.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap001.xhtml" id="Cap001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap002.xhtml" id="Cap002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap003.xhtml" id="Cap003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap004.xhtml" id="Cap004.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap005.xhtml" id="Cap005.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap006.xhtml" id="Cap006.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap007.xhtml" id="Cap007.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap008.xhtml" id="Cap008.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap009.xhtml" id="Cap009.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap010.xhtml" id="Cap010.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap011.xhtml" id="Cap011.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap012.xhtml" id="Cap012.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap013.xhtml" id="Cap013.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap014.xhtml" id="Cap014.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap015.xhtml" id="Cap015.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap016.xhtml" id="Cap016.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap017.xhtml" id="Cap017.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap018.xhtml" id="Cap018.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap019.xhtml" id="Cap019.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap020.xhtml" id="Cap020.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap021.xhtml" id="Cap021.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap022.xhtml" id="Cap022.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap023.xhtml" id="Cap023.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap024.xhtml" id="Cap024.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap025.xhtml" id="Cap025.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap026.xhtml" id="Cap026.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap027.xhtml" id="Cap027.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap028.xhtml" id="Cap028.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap029.xhtml" id="Cap029.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap030.xhtml" id="Cap030.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap031.xhtml" id="Cap031.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap032.xhtml" id="Cap032.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap033.xhtml" id="Cap033.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap034.xhtml" id="Cap034.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap035.xhtml" id="Cap035.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap036.xhtml" id="Cap036.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap037.xhtml" id="Cap037.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap038.xhtml" id="Cap038.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap039.xhtml" id="Cap039.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap040.xhtml" id="Cap040.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap041.xhtml" id="Cap041.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap042.xhtml" id="Cap042.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap043.xhtml" id="Cap043.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap044.xhtml" id="Cap044.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap045.xhtml" id="Cap045.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap046.xhtml" id="Cap046.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap047.xhtml" id="Cap047.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap048.xhtml" id="Cap048.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap049.xhtml" id="Cap049.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap050.xhtml" id="Cap050.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap051.xhtml" id="Cap051.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap052.xhtml" id="Cap052.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap053.xhtml" id="Cap053.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap054.xhtml" id="Cap054.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap055.xhtml" id="Cap055.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap056.xhtml" id="Cap056.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap057.xhtml" id="Cap057.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap058.xhtml" id="Cap058.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap059.xhtml" id="Cap059.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap060.xhtml" id="Cap060.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap061.xhtml" id="Cap061.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap062.xhtml" id="Cap062.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap063.xhtml" id="Cap063.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap064.xhtml" id="Cap064.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap065.xhtml" id="Cap065.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap066.xhtml" id="Cap066.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap067.xhtml" id="Cap067.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap068.xhtml" id="Cap068.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap069.xhtml" id="Cap069.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap070.xhtml" id="Cap070.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap071.xhtml" id="Cap071.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Cap072.xhtml" id="Cap072.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/mpsur.jpg" id="mpsur.jpg" media-type="image/jpeg" />
+    <item href="Images/mpnrt.jpg" id="mpnrt.jpg" media-type="image/jpeg" />
+    <item href="Images/autor.jpg" id="autor.jpg" media-type="image/jpeg" />
+    <item href="Images/EPL_logo.png" id="EPL_logo.png" media-type="image/png" />
+    <item href="Text/le_copy.xhtml" id="le_copy.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cubierta.xhtml" />
+    <itemref idref="le_copy.xhtml" />
+    <itemref idref="sinopsis.xhtml" />
+    <itemref idref="titulo.xhtml" />
+    <itemref idref="prstcn.xhtml" />
+    <itemref idref="dedicatoria.xhtml" />
+    <itemref idref="mapa1.xhtml" />
+    <itemref idref="mapa2.xhtml" />
+    <itemref idref="agrade.xhtml" />
+    <itemref idref="Cap000.xhtml" />
+    <itemref idref="Cap001.xhtml" />
+    <itemref idref="Cap002.xhtml" />
+    <itemref idref="Cap003.xhtml" />
+    <itemref idref="Cap004.xhtml" />
+    <itemref idref="Cap005.xhtml" />
+    <itemref idref="Cap006.xhtml" />
+    <itemref idref="Cap007.xhtml" />
+    <itemref idref="Cap008.xhtml" />
+    <itemref idref="Cap009.xhtml" />
+    <itemref idref="Cap010.xhtml" />
+    <itemref idref="Cap011.xhtml" />
+    <itemref idref="Cap012.xhtml" />
+    <itemref idref="Cap013.xhtml" />
+    <itemref idref="Cap014.xhtml" />
+    <itemref idref="Cap015.xhtml" />
+    <itemref idref="Cap016.xhtml" />
+    <itemref idref="Cap017.xhtml" />
+    <itemref idref="Cap018.xhtml" />
+    <itemref idref="Cap019.xhtml" />
+    <itemref idref="Cap020.xhtml" />
+    <itemref idref="Cap021.xhtml" />
+    <itemref idref="Cap022.xhtml" />
+    <itemref idref="Cap023.xhtml" />
+    <itemref idref="Cap024.xhtml" />
+    <itemref idref="Cap025.xhtml" />
+    <itemref idref="Cap026.xhtml" />
+    <itemref idref="Cap027.xhtml" />
+    <itemref idref="Cap028.xhtml" />
+    <itemref idref="Cap029.xhtml" />
+    <itemref idref="Cap030.xhtml" />
+    <itemref idref="Cap031.xhtml" />
+    <itemref idref="Cap032.xhtml" />
+    <itemref idref="Cap033.xhtml" />
+    <itemref idref="Cap034.xhtml" />
+    <itemref idref="Cap035.xhtml" />
+    <itemref idref="Cap036.xhtml" />
+    <itemref idref="Cap037.xhtml" />
+    <itemref idref="Cap038.xhtml" />
+    <itemref idref="Cap039.xhtml" />
+    <itemref idref="Cap040.xhtml" />
+    <itemref idref="Cap041.xhtml" />
+    <itemref idref="Cap042.xhtml" />
+    <itemref idref="Cap043.xhtml" />
+    <itemref idref="Cap044.xhtml" />
+    <itemref idref="Cap045.xhtml" />
+    <itemref idref="Cap046.xhtml" />
+    <itemref idref="Cap047.xhtml" />
+    <itemref idref="Cap048.xhtml" />
+    <itemref idref="Cap049.xhtml" />
+    <itemref idref="Cap050.xhtml" />
+    <itemref idref="Cap051.xhtml" />
+    <itemref idref="Cap052.xhtml" />
+    <itemref idref="Cap053.xhtml" />
+    <itemref idref="Cap054.xhtml" />
+    <itemref idref="Cap055.xhtml" />
+    <itemref idref="Cap056.xhtml" />
+    <itemref idref="Cap057.xhtml" />
+    <itemref idref="Cap058.xhtml" />
+    <itemref idref="Cap059.xhtml" />
+    <itemref idref="Cap060.xhtml" />
+    <itemref idref="Cap061.xhtml" />
+    <itemref idref="Cap062.xhtml" />
+    <itemref idref="Cap063.xhtml" />
+    <itemref idref="Cap064.xhtml" />
+    <itemref idref="Cap065.xhtml" />
+    <itemref idref="Cap066.xhtml" />
+    <itemref idref="Cap067.xhtml" />
+    <itemref idref="Cap068.xhtml" />
+    <itemref idref="Cap069.xhtml" />
+    <itemref idref="Cap070.xhtml" />
+    <itemref idref="Cap071.xhtml" />
+    <itemref idref="Cap072.xhtml" />
+    <itemref idref="Ape000.xhtml" />
+    <itemref idref="Ape001.xhtml" />
+    <itemref idref="Ape002.xhtml" />
+    <itemref idref="Ape003.xhtml" />
+    <itemref idref="Ape004.xhtml" />
+    <itemref idref="Ape005.xhtml" />
+    <itemref idref="Ape006.xhtml" />
+    <itemref idref="Ape007.xhtml" />
+    <itemref idref="Ape008.xhtml" />
+    <itemref idref="Ape009_01.xhtml" />
+    <itemref idref="Ape009_02.xhtml" />
+    <itemref idref="Ape009_03.xhtml" />
+    <itemref idref="Apsmd.xhtml" />
+    <itemref idref="autor.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/cubierta.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>
