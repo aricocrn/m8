@@ -1,0 +1,33 @@
+body{
+  background-color: red;
+}
+/* Móvil vertical */
+@media screen and (max-width:640px) and (orientation:portrait){
+  body{
+    background-color: green;
+  }
+}
+/* Móvil horizontal */
+@media screen and (max-width:640px) and (orientation:landscape){
+  body{
+    background-color: cyan;
+  }
+}
+/* Tablet vertical */
+@media screen and (min-width:641px) and (max-width: 1200px;) and (orientation:portrait){
+  body{
+    background-color: yellow;
+  }
+}
+/* Tablet horizontal */
+@media screen and (min-width:641px) and (max-width: 1200px;) and (orientation:landscape){
+  body{
+    background-color: orange;
+  }
+}
+/* Escriptori */
+@media screen and (min-width:1200px){
+  body{
+    background-color: yellow;
+  }
+}
